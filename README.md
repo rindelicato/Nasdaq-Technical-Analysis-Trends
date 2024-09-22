@@ -1,1 +1,1 @@
-# Nasdaq-Technical-Analysis-Trends
+# nasdaq-technical-analysis-trends
